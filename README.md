@@ -7,6 +7,12 @@ CloudWatch Terraform: Infrastructure as code for AWS CloudWatch.
  - `variables.tf`: defines variables
 
 # Installation
- - `terraform init` 
- - `terraform plan -out plan.out`
- - `terraform apply plan.out --auto-approve`
+```
+terraform init
+```
+```
+terraform plan -out plan.out
+```
+```
+terraform apply plan.out --auto-approve
+```
