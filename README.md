@@ -2,9 +2,9 @@
 CloudWatch Terraform: Infrastructure as code for AWS CloudWatch.
 
 **Files:**
- - `cloudwatch.tf` file creates a CloudWatch dashboard integrating EC2 instances, an SNS topic, a subscription and a CloudWatch alarm for comprehensive monitoring and alerting within the AWS environment.
- - `terraform.tfvars`: stores variable values
- - `variables.tf`: defines variables
+ - [`cloudwatch.tf`](https://github.com/Sebastianutcn/terraform-cloudwatch/blob/main/cloudwatch.tf) file creates a CloudWatch dashboard integrating EC2 instances, an SNS topic, a subscription and a CloudWatch alarm for comprehensive monitoring and alerting within the AWS environment.
+ - [`terraform.tfvars`](https://github.com/Sebastianutcn/terraform-cloudwatch/blob/main/terraform.tfvars): stores variable values
+ - [`variables.tf`](https://github.com/Sebastianutcn/terraform-cloudwatch/blob/main/variables.tf): defines variables
 
 # Installation
 - Terraform command to initialize the project
