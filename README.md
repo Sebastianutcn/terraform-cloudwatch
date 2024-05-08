@@ -6,7 +6,7 @@ CloudWatch Terraform: Infrastructure as code for AWS CloudWatch.
  - [`terraform.tfvars`](https://github.com/Sebastianutcn/terraform-cloudwatch/blob/main/terraform.tfvars): stores variable values
  - [`variables.tf`](https://github.com/Sebastianutcn/terraform-cloudwatch/blob/main/variables.tf): defines variables
 
-# Installation
+## Installation
 - Terraform command to initialize the project
 ```
 terraform init
